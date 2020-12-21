@@ -1,10 +1,10 @@
 <?php
-
 /**
  * BNFW Notification.
  *
  * @since 1.0
  */
+
 class BNFW_Notification {
 
   const POST_TYPE = 'bnfw_notification';
